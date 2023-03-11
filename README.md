@@ -1,5 +1,5 @@
 # Jellowdaaaa 👋
-Ingeniería multimedia, apasionado y dedicado por todo lo relacionado a la multimedia, algunos de mis hobbies son, la fotografía, tocar el teclado y jugar videojuegos, con experiencia en temas relacionados al desarrollo web, desarrollo de videojuegos y laproducción audiovisual.
+Ingeniería multimedia, apasionado y dedicado por todo lo relacionado a la multimedia, algunos de mis hobbies son, la fotografía, tocar el teclado y jugar videojuegos, con experiencia en temas relacionados al desarrollo web, desarrollo de videojuegos y la producción audiovisual.
 
 
 ## Techs 🚀
