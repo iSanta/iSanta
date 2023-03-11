@@ -75,7 +75,8 @@ Ingeniería multimedia, apasionado y dedicado por todo lo relacionado a la multi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-santa-abreu-63433b118/)
 [![ArtStation Badge](https://img.shields.io/badge/-ArtStation-2A79C6?style=flat-square&logo=ArtStation&logoColor=white&link=mailto:eduardo.amaro164@gmail.com)](https://www.artstation.com/juansantaabreu)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/eduamaro.m/)](https://www.instagram.com/santaabreujuan/)
-
+[![Gmail Badge](https://img.shields.io/badge/-jcarlossa15783@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcarlossa15783@gmail.com)](mailto:jcarlossa15783@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jcarlossa15783@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcarlossa15783@gmail.com)](mailto:jcarlossa15783@gmail.com)
 
 ##
 
